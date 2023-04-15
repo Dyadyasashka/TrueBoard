@@ -1,6 +1,6 @@
+opencv-python
 streamlit
 tensorflow-cpu
 ultralytics
 roboflow
 dtw
-opencv-python
