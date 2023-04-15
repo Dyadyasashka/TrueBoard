@@ -3,3 +3,4 @@ tensorflow-cpu
 ultralytics
 roboflow
 dtw
+opencv-python
